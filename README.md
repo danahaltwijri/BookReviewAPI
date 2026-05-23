@@ -34,8 +34,7 @@ A backend web application developed using Django REST Framework that allows user
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BookReviewAPI.git
-```
+](https://github.com/danahaltwijri/BookReviewAPI.git)```
 
 ```bash
 cd BookReviewAPI
@@ -119,8 +118,8 @@ POST /api/token/
 
 ```json
 {
-    "username": "your_username",
-    "password": "your_password"
+    "username": "example",
+    "password": "example"
 }
 ```
 
